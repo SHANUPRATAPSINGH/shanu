@@ -1,2 +1,2 @@
 # shanu
-my first repository
+my first work
